@@ -1,0 +1,20 @@
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\bin\Debug\MTParser.exe.config
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.csproj.ResolveComReference.cache
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\bin\Debug\MTParser.exe
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\bin\Debug\MTParser.pdb
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.csprojResolveAssemblyReference.cache
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\obj\Debug\MtParser.Form1.resources
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\obj\Debug\MtParser.Properties.Resources.resources
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.csproj.GenerateResource.Cache
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.exe
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.pdb
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\bin\Debug\MTParser.exe.config
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.csproj.ResolveComReference.cache
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.exe
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.pdb
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.csprojResolveAssemblyReference.cache
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\obj\Debug\MtParser.Form1.resources
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\obj\Debug\MtParser.Properties.Resources.resources
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\obj\Debug\MTParser.csproj.GenerateResource.Cache
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\bin\Debug\MTParser.exe
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\MTParser\MTParser\bin\Debug\MTParser.pdb
